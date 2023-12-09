@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const markdownGen = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // Create an array of questions for user input
 const questions = [
@@ -36,8 +36,8 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contributors',
-        message: 'Please name any other contributors.'
+        name: 'contribute',
+        message: 'Please describe and contributing guidelines.'
 
     },
     {
