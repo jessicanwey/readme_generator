@@ -56,7 +56,8 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please select your license information for this application:',
-        choices: ['none',
+        choices: [
+        'None',
         'Academic Free License v3.0', 
         'Apache license 2.0',
         'Artistic license 2.0',
