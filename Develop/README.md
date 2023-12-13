@@ -1,10 +1,10 @@
-# r
+# Professional README Generator
 
   ## Badges
-  [![License](https://img.shields.io/badge/License-BSL--4--Clause-blue.svg)](https://opensource.org/license/bsdpluspatent/)
+  
 
   ## Description
-  r
+  This can be used to create a professional README.md file to use for your GitHub project.
     
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +15,23 @@
   * [Questions](#questions)
 
   ## Installation
-  r
+  Clone the repository from GitHub.
 
   ## Usage
-  r
+  Use your terminal and use node to open index.js and follow prompts.
+  Video demo: https://watch.screencastify.com/v/Uhjgs0CoTPgQOcYSR76T
 
   ## License
-  BSD 4-clause "Original" or "Old" license  
-  Find out more about this license here: https://opensource.org/license/bsdpluspatent/
+  None  
+  Find out more about this license here: 
 
   ## Contributing
-  r
+  Please follow this link for best practices for contributing to an open source project:
+  https://opensource.guide/how-to-contribute/
 
   ## Tests
-  r
+  Use the application.
 
   ## Questions
-  GitHub: [r](https://github.com/r)  
-  Please contact me via email with additional questions: r
+  GitHub: [jessicanwey](https://github.com/jessicanwey)  
+  Please contact me via email with additional questions: jessica.n.wey@gmail.com
