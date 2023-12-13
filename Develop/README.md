@@ -1,10 +1,10 @@
-# k
+# r
 
   ## Badges
-  [![License](https://img.shields.io/badge/License-BSL--2--Clause-blue.svg)](https://opensource.org/license/bsdpluspatent/)
+  [![License](https://img.shields.io/badge/License-BSL--4--Clause-blue.svg)](https://opensource.org/license/bsdpluspatent/)
 
   ## Description
-  k
+  r
     
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +15,21 @@
   * [Questions](#questions)
 
   ## Installation
-  k
+  r
 
   ## Usage
-  k
+  r
 
   ## License
-  BSD 2-clause "Simplified" license  
-  https://opensource.org/license/bsdpluspatent/
+  BSD 4-clause "Original" or "Old" license  
+  Find out more about this license here: https://opensource.org/license/bsdpluspatent/
 
   ## Contributing
-  k
+  r
 
   ## Tests
-  k
+  r
 
   ## Questions
-  GitHub: [k](https://github.com/k)  
-  Please contact me via email with additional questions: k
+  GitHub: [r](https://github.com/r)  
+  Please contact me via email with additional questions: r
