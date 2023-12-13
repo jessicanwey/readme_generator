@@ -1,10 +1,10 @@
-# coolness
+# The Best Project
 
   ## Badges
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-Artistic-2.0-blue.svg)](https://opensource.org/license/artistic-2-0/)
 
   ## Description
-  no
+  It does the best things for the best people.
     
   ## Table of Contents
   * [Installation](#installation)
@@ -15,31 +15,31 @@
   * [Questions](#questions)
 
   ## Installation
-  no
+  Install it 
 
   ## Usage
-  no
+  Please do
 
   ## License
-  Apache license 2.0  
-  https://opensource.org/license/apache-2-0/
+  Artistic license 2.0  
+  https://opensource.org/license/artistic-2-0/
 
   ## Contributing
-  no
+  Help!
 
   ## Tests
-  no
+  Try it
 
   ## Questions
-  GitHub Profile: [jessicanwey](https://github.com/jessicanwey)  
-  Please contact me via email with additional questions: jessicanwey@gmail.com
-# the shit
+  GitHub: [jessicanwey](https://github.com/jessicanwey)  
+  Please contact me via email with additional questions: jessica.n.wey@gmail.com
+# sdfsdf
 
   ## Badges
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-0BSD-blue.svg)](https://opensource.org/license/bsdpluspatent/)
 
   ## Description
-  no
+  sdfsdf
     
   ## Table of Contents
   * [Installation](#installation)
@@ -50,56 +50,21 @@
   * [Questions](#questions)
 
   ## Installation
-  no
+  sdfsdf
 
   ## Usage
-  no
+  sdfsdf
 
   ## License
-  Apache license 2.0  
-  https://opensource.org/license/apache-2-0/
+  BSD Zero-Clause license  
+  https://opensource.org/license/bsdpluspatent/
 
   ## Contributing
-  no
+  sdfsdf
 
   ## Tests
-  no
+  sdfsdf
 
   ## Questions
-  GitHub Profile: [jessicanwey](https://github.com/jessicanwey)  
-  Please contact me via email with additional questions: cool
-# the best one ever
-
-  ## Badges
-  [![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/license/isc-license-txt/)
-
-  ## Description
-  no
-    
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-
-  ## Installation
-  no
-
-  ## Usage
-  no
-
-  ## License
-  ISC  
-  https://opensource.org/license/isc-license-txt/
-
-  ## Contributing
-  no
-
-  ## Tests
-  no
-
-  ## Questions
-  GitHub Profile: [jessicanwey](https://github.com/jessicanwey)  
-  Please contact me via email with additional questions: jessicanwey@gmail.com
+  GitHub: [sdfsdf](https://github.com/sdfsdf)  
+  Please contact me via email with additional questions: sdfsdf

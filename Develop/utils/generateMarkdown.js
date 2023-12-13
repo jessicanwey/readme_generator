@@ -6,7 +6,7 @@ function renderLicenseBadge(license) {
         if(license === 'Academic Free License v3.0') {
           licenseBadge = '[![License](https://img.shields.io/badge/License-AFL-3.0-blue.svg)](https://opensource.org/license/afl-3-0-php/)';
         }if(license === 'Apache license 2.0'){
-          licenseBadge = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
+          licenseBadge = '[![License](https://img.shields.io/badge/License-Apache-2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
         }if(license === 'Artistic license 2.0'){
           licenseBadge = '[![License](https://img.shields.io/badge/License-Artistic-2.0-blue.svg)](https://opensource.org/license/artistic-2-0/)';
         }if(license === 'Boost Software License 1.0'){
@@ -130,13 +130,6 @@ function renderLicenseLink(license) {
         return licenseLink;
 }
 
-// This function returns the license section of the README
-// If there is no license, return an empty string
-// function renderLicenseSection(license) {
-//   let licenseBadge = renderLicenseBadge(license);
-//   let licenseLink = renderLicenseLink(license);
-//   return 
-// }
 
 // This function generates the markdown for the README
 function generateMarkdown(data) {
